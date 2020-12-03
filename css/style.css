@@ -10,6 +10,16 @@
     bottom: 0px;
 }
 
+.owl-nav{
+	position: absolute;
+    bottom: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 10vh;
+}
+
 .fondoTarjeta{
 	height: 90vh;	
 	background: rgb(224,225,235);
